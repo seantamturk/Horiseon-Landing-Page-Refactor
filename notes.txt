@@ -1,4 +1,7 @@
-Fixed
+Branch 1
     html lang
     better title
     fixed missing id="search-engine-optimization" under <div class="content">
+
+Branch 2
+    Included alt text for images
