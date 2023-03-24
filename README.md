@@ -12,7 +12,7 @@ As part of this assignment, I have successfully improved the site's link functio
 ## Links
 [Repository](https://github.com/seantamturk/Horiseon-Landing-Page-Refactor)
 [Website](https://seantamturk.github.io/Horiseon-Landing-Page-Refactor/)
-[Image]()
+[Image](https://github.com/seantamturk/Horiseon-Landing-Page-Refactor/blob/main/website.png?raw=true)
 
 
 ## License
