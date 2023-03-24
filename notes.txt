@@ -22,6 +22,9 @@ Aside Semantic
 Footer Semantic
     -changed div to footer
     -replaced .footer for footer element in css
+
+Index comments
+    -Made comments on elements in the index.html
     
 
 
