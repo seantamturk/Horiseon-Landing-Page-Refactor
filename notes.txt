@@ -30,7 +30,7 @@ CSS
     -Consolidated viable selectors
     -left comments
     -changed unordered list to ordered list
-        -changed respective css selectors
+    -changed respective css selectors
     -changed arrangement of css 
     
 
