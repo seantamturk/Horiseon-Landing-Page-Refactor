@@ -25,6 +25,13 @@ Footer Semantic
 
 Index comments
     -Made comments on elements in the index.html
+
+CSS
+    -Consolidated viable selectors
+    -left comments
+    -changed unordered list to ordered list
+        -changed respective css selectors
+    -changed arrangement of css 
     
 
 
