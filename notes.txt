@@ -5,3 +5,7 @@ Branch 1
 
 Branch 2
     Included alt text for images
+
+Header Semantic
+    removed and replaced non-semantic elements from header
+    changed .hero from <div> to <figure>
