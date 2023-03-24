@@ -1,11 +1,16 @@
 Branch 1
-    html lang
-    better title
-    fixed missing id="search-engine-optimization" under <div class="content">
+    -html lang
+    -better title
+    -fixed missing id="search-engine-optimization" under <div class="content">
 
 Branch 2
-    Included alt text for images
+    -Included alt text for images
 
 Header Semantic
-    removed and replaced non-semantic elements from header
-    changed .hero from <div> to <figure>
+    -removed and replaced non-semantic elements from header
+    -replaced .hero with header element in css
+    -changed .hero from <div> to <figure>
+
+Section Semantic
+    -changed <div .content> to <section> and changed respective css
+    -changed <div> to <article> for search engine optimization, Online Reputation Management, and Social Media Marketing
