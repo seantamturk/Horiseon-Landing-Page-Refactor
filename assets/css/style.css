@@ -115,7 +115,7 @@ section {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* next three classes can be merged into one */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
