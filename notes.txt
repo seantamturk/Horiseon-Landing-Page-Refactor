@@ -8,7 +8,7 @@ Branch 2
 
 Header Semantic
     -removed and replaced non-semantic elements from header
-    -replaced .hero with header element in css
+    -replaced .hero for header element in css
     -changed .hero from <div> to <figure>
 
 Section Semantic
@@ -16,5 +16,12 @@ Section Semantic
     -changed <div> to <article> for search engine optimization, Online Reputation Management, and Social Media Marketing
 
 Aside Semantic
--opted for <aside> over <div>
--changed <div> to <article> for Lead Generation, Brand Awareness, and Cost Management
+    -opted for <aside> over <div>
+    -changed <div> to <article> for Lead Generation, Brand Awareness, and Cost Management
+
+Footer Semantic
+    -changed div to footer
+    -replaced .footer for footer element in css
+    
+
+
