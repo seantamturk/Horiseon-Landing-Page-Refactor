@@ -14,3 +14,7 @@ Header Semantic
 Section Semantic
     -changed <div .content> to <section> and changed respective css
     -changed <div> to <article> for search engine optimization, Online Reputation Management, and Social Media Marketing
+
+Aside Semantic
+-opted for <aside> over <div>
+-changed <div> to <article> for Lead Generation, Brand Awareness, and Cost Management
